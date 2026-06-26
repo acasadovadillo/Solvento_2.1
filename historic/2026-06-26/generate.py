@@ -563,11 +563,11 @@ html_out = f"""<!DOCTYPE html>
 <nav class="navbar">
   <div class="navbar-brand">
     <h1>💰 Finanzas Personales</h1>
-    <span class="navbar-date">versión 2.0 · Actualizado: {fecha_actualizacion} a las {hora_actualizacion} horas</span>
+    <span class="navbar-date">versión 2.1 · Actualizado: {fecha_actualizacion} a las {hora_actualizacion} horas</span>
   </div>
   <ul class="navbar-menu">
     <li class="navbar-item"><a href="#" data-page="neto" onclick="showPage('neto');return false;">Patrimonio neto</a></li>
-    <li class="navbar-item"><a href="#" data-page="liquidez" onclick="showPage('liquidez');return false;">Liquidez</a></li>
+    <li class="navbar-item"><a href="#" data-page="cuentas" onclick="showPage('cuentas');return false;">Cuentas</a></li>
     <li class="navbar-item"><a href="#" data-page="inversiones" onclick="showPage('inversiones');return false;">Inversiones</a></li>
   </ul>
   <button class="hamburger" onclick="toggleMenu()" aria-label="Menú">
@@ -576,7 +576,7 @@ html_out = f"""<!DOCTYPE html>
 </nav>
 <div class="mobile-menu" id="mobile-menu">
   <a href="#" onclick="showPage('neto');closeMenu();return false;">Patrimonio neto</a>
-  <a href="#" onclick="showPage('liquidez');closeMenu();return false;">Liquidez</a>
+  <a href="#" onclick="showPage('cuentas');closeMenu();return false;">Cuentas</a>
   <a href="#" onclick="showPage('inversiones');closeMenu();return false;">Inversiones</a>
 </div>
 
@@ -608,8 +608,8 @@ html_out = f"""<!DOCTYPE html>
   </div>
 </div>
 
-<!-- ══ PÁGINA 2: LIQUIDEZ ══ -->
-<div class="page" id="page-liquidez">
+<!-- ══ PÁGINA 2: CUENTAS ══ -->
+<div class="page" id="page-cuentas">
   <div class="header-block">
     <h2 class="section-title">Patrimonio líquido</h2>
     <div class="section-subtitle">{fmt_eur(patrimonio_liquido)}</div>
