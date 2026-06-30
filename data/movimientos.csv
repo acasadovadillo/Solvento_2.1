@@ -28,6 +28,7 @@ Marca temporal,fecha,tipo,importe,cuenta_origen,cuenta_destino,tipo_ingreso,tipo
 30/06/2026 12:07:52,30/06/2026,Préstamo,20,-,Bankinter,,,Devolución,María Díaz Calvo,Comida Carrefour y MacDonalds
 30/06/2026 12:10:09,30/06/2026,Gasto,19.94,Santander,-,,Transporte > Transporte público y privado,,,Uber con Laura Colorado Pedrero
 30/06/2026 12:26:59,30/06/2026,Ingreso,1010.16,-,Trade Republic,Ingreso de ajuste,,,,Para ajustar todos los gastos de compras de activos de inversión
+30/06/2026 17:43:29,30/06/2026,Préstamo,256.36,-,Bankinter,,,Devolución,ABIES,SiteGround ABIES
 22/06/2026 20:35:41,26/02/2026,Ingreso,12311.71,-,Bankinter,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:36:48,26/02/2026,Ingreso,21.95,-,Santander,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:37:35,26/02/2026,Ingreso,85.7,-,Efectivo,Ingreso de ajuste,,,,Saldo en cuenta inicial
