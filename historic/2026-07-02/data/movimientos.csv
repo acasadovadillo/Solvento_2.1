@@ -40,6 +40,8 @@ Marca temporal,fecha,tipo,importe,cuenta_origen,cuenta_destino,tipo_ingreso,tipo
 2/07/2026 12:01:28,2/07/2026,Ingreso,178.85,-,Bankinter,"Otros ingresos (especificar en ""Detalle"")",,,,Devolución de la fianza de Telefurgo (me devuelven menos porque me pasé de km)
 2/07/2026 12:08:39,1/07/2026,Gasto,69.16,Santander,-,,Transporte > Combustible,,,Repostaje de la furgoneta alquilada para la mudanza
 2/07/2026 12:09:29,1/07/2026,Gasto,18.90,Santander,-,,"Ocio > Bares, restaurantes y eventos",,,Cena Tom-Bru con Laura Colorado Pedrero (la invito por ayudarme con la mudanza)
+2/07/2026 12:17:16,1/07/2026,Ingreso,0.15,-,Trade Republic,Inversiones,,,,Interés de la cuenta remunerada de Trade Republic
+2/07/2026 12:18:10,2/07/2026,Gasto,0.30,Trade Republic,-,,Inversiones,,,Physical Gold USD (Acc) Round up
 22/06/2026 20:35:41,26/02/2026,Ingreso,12311.71,-,Bankinter,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:36:48,26/02/2026,Ingreso,21.95,-,Santander,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:37:35,26/02/2026,Ingreso,85.7,-,Efectivo,Ingreso de ajuste,,,,Saldo en cuenta inicial
